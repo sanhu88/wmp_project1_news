@@ -1,1 +1,52 @@
 /**index.wxss**/
+.header{
+ 
+  display:flex;
+    
+    flex-shrink: 0;
+   
+    flex-direction:row;
+    align-items:center;
+  background-color: blue;
+ 
+}
+.header-item{
+padding: 0 10rpx;
+
+}
+.banner{
+   position: relative;
+  background-color: cyan;/**/
+  /*padding-top: 174rpx; */
+ 
+  padding-bottom: 350rpx;
+  text-align: center;
+ 
+  font-size: 30rpx;
+  line-height: 42rpx;
+ 
+}
+
+
+.news-list{
+background: yellowgreen;
+ flex-direction:row;
+ align-items:center;
+}
+.news-item {
+    display:flex;
+    
+    flex-shrink: 0;
+    border-bottom:1rpx solid rgba(0, 0, 0, 0.1);
+    padding-bottom: 20rpx;
+    padding-top: 20rpx;
+
+}
+.news-text{
+text-align: left;
+}
+.news-thumb{
+
+height: 200rpx;
+
+}

@@ -1,2 +1,71 @@
 <!--index.wxml-->
 
+<view class='header'>
+  <view class='header-item'>
+  国内
+  </view>
+  <view class='header-item'>
+  国内
+  </view>
+  <view class='header-item'>
+  国内
+  </view>
+ </view>
+
+<view class='banner'> banner</view>
+
+<view class='news-list'> 
+  <view class='news-item'>
+    <view class='news-text'>
+        <view class='news-text-title'>
+            清明假期长三角铁路客流堪比春运 上海局增开客车124列 
+         </view>
+         <view class='news-text-source-time'>
+              环球资讯  12:04
+         </view>
+    </view>
+    
+      <image class='news-thumb' src='http://img1.gtimg.com/news/pics/hv1/38/85/1076/69988613.jpg'mode='scaleToFill'></image>
+    
+  </view>
+   <view class='news-item'>
+    <view class='news-text'>
+        <view class='news-text-title'>
+            清明假期长三角铁路客流堪比春运 上海局增开客车124列 
+         </view>
+         <view class='news-text-source-time'>
+              环球资讯  12:04
+         </view>
+    </view>
+    
+      <image class='news-thumb' src='http://img1.gtimg.com/news/pics/hv1/38/85/1076/69988613.jpg'mode='scaleToFill'></image>
+    
+  </view>
+   <view class='news-item'>
+    <view class='news-text'>
+        <view class='news-text-title'>
+            清明假期长三角铁路客流堪比春运 上海局增开客车124列 
+         </view>
+         <view class='news-text-source-time'>
+              环球资讯  12:04
+         </view>
+    </view>
+    
+      <image class='news-thumb' src='http://img1.gtimg.com/news/pics/hv1/38/85/1076/69988613.jpg'mode='scaleToFill'></image>
+    
+  </view>
+   <view class='news-item'>
+    <view class='news-text'>
+        <view class='news-text-title'>
+            清明假期长三角铁路客流堪比春运 上海局增开客车124列 
+         </view>
+         <view class='news-text-source-time'>
+              环球资讯  12:04
+         </view>
+    </view>
+    
+      <image class='news-thumb' src='http://img1.gtimg.com/news/pics/hv1/38/85/1076/69988613.jpg'mode='scaleToFill'></image>
+    
+  </view>
+  
+</view>
