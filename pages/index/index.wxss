@@ -2,18 +2,21 @@
 .header{
  
   display:flex;
-    
-    flex-shrink: 0;
-   
-    flex-direction:row;
-    align-items:center;
-  background-color: blue;
+  flex-direction:row;
+  justify-content:space-around;
+  background-color:#66ccff;
+  font-size: 40rpx;
+  line-height: 56rpx;
+  color: #fff;
+  padding-top: 20rpx;
+  padding-bottom: 20rpx;
  
 }
 .header-item{
-padding: 0 10rpx;
-
+padding-left:10rpx;
+text-align: center;
 }
+
 .banner{
    position: relative;
   background-color: cyan;/**/
